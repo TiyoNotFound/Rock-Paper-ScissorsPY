@@ -34,7 +34,7 @@ The AI has three difficulty levels:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/Rock-Paper-Scissors.git
+   git clone https://github.com/TiyoNotFound/Rock-Paper-ScissorsPY.git
    ```
 
 2. Run the Python script to start playing the game.
