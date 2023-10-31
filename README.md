@@ -1,5 +1,5 @@
 # <p align="center">
-  <img src="logo.png" alt="Rock-Paper-Scissors Logo" width="200">
+  <img src="logo.jpeg" alt="Rock-Paper-Scissors Logo" width="200">
 </p>
 
 # Rock-Paper-Scissors Game
